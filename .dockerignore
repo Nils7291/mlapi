@@ -1,0 +1,13 @@
+.env
+venv
+.venv
+.idea
+.ipynb_checkpoints
+.vscode
+.DS_Store
+.git
+.gitignore
+.ipython
+.local
+.cache
+.jupyter
